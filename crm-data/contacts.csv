@@ -1,0 +1,14 @@
+id;name;ownerId;mobile;firstname;lastname;birthdate;email
+900131;Pedro Martínez Pérez;802101;623526760;Pedro;Martínez Pérez;25/02/64;pedro.martinez@almirall.test
+900132;Rafael Gómez Ruiz;802101;623526756;Rafael;Gómez Ruiz;06/04/77;rafael.gomez@konozca.test
+900133;Carlos Martel;802101;623526757;Carlos;Martel;23/08/86;carlos.martel@kymos.test
+900134;Ciro de Anshan;802101;623526758;Ciro;de Anshan;23/10/00;ciro-el-grande@aefa.test
+900135;Ṣalāḥ ad-Dīn Yūsuf ibn Ayyūb;802101;623526759;Ṣalāḥ ad-Dīn ;Yūsuf ibn Ayyūb;01/03/38;saladino@memora.test
+905321;Rodrigo Arcos Chazarreta;802101;623526748;Rodrigo;Arcos Chazarreta;05/11/1998;rodrigo.arcos@test.com
+905322;Tetsuo Shima;802101;623526749;Tetsuo;Shima;02/06/1982;tetsuo.shima@akira.com
+905323;Guts, Guerrero Negro;802101;623526750;Guts;Guerrero Negro;18/08/1373;guts@berserk.com
+905324;Alhponse Elric;802101;623526751;Alphonse;Elric;16/02/1876;alphonse@fma.com
+905325;Edward Elric;802101;623526752;Edward;Elric;19/10/1879;edward@fma.com
+905326;Roy Mustang;802101;623526753;Roy;Mustang;03/12/1865;roy@fma.com
+905327;Winry Rockbell;802101;623526754;Winry;Rockbell;05/11/1876;winry@fma.com
+905328;Ling Yao;802101;623526755;Ling;Yao;06/07/1876;ling@fma.com

@@ -1,0 +1,25 @@
+id;accountId;amount;opportunityLineItems;closeDate;contactId;stageName;probability;isWon;leadSource
+100101;402131;1.500,50 €;;22/06/21;900131;Analizing;20,00 %;false;Email
+100102;402132;873,50 €;;23/06/21;900132;Negociating;50,00 %;false;Facebook
+100103;402134;695,32 €;;24/06/21;900134;Closed Won;100,00 %;true;Email
+100104;402132;1.003,90 €;;25/06/21;900132;Closed Lost;0,00 %;false;Partner Referral
+100105;402133;75,89 €;;26/06/21;900133;Negociating;50,00 %;false;Other
+100106;402135;65,70 €;;27/06/21;900135;Analizing;20,00 %;false;Web
+100107;402133;12,75 €;;28/06/21;900133;Open;10,00 %;false;Email
+100108;402134;6.956,80 €;;29/06/21;900134;Closed Won;100,00 %;true;Web
+100109;205321;1.215,80 €;;30/06/21;905321;Closing;90,00 %;false;Web
+100110;205323;1.568,20 €;;01/07/21;905323;Negociating;50,00 %;false;Web
+100111;205324;525,30 €;;02/07/21;905324;Analizing;20,00 %;false;Email
+100112;205325;454,00 €;;03/07/21;905325;Closed Lost;0,00 %;false;Web
+100113;205327;8.985,00 €;;04/07/21;905327;Closed Won;100,00 %;true;Web
+100114;402135;86,32 €;;05/07/21;900135;Analizing;20,00 %;false;Email
+100115;402135;56,98 €;;06/07/21;900135;Negociating;50,00 %;false;Email
+100116;205321;758,60 €;;07/07/21;905321;Closed Lost;0,00 %;false;Partner Referral
+100117;205322;2.353,00 €;;08/07/21;905322;Negociating;50,00 %;false;Partner Referral
+100118;402131;4.822,00 €;;09/07/21;900131;Negociating;50,00 %;false;Partner Referral
+100119;402133;895,60 €;;10/07/21;900133;Analizing;20,00 %;false;Facebook
+100120;402134;765,00 €;;11/07/21;900134;Closed Won;100,00 %;true;Facebook
+100121;402133;321,00 €;;12/07/21;900133;Closed Won;100,00 %;true;Web
+100122;402134;952,00 €;;13/07/21;900134;Closed Lost;0,00 %;false;Web
+100123;205322;101,00 €;;14/07/21;905322;Closing;90,00 %;false;Web
+100124;205323;1.156,00 €;;15/07/21;905323;Negociating;50,00 %;false;Partner Referral

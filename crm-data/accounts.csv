@@ -1,0 +1,16 @@
+id;name;isPersonAccount;billingAddress;billingStreet;billingCity;billingState;billingPostalCode;billingCountry;shippingAddres;parentId;ownerId;phone;recordTypeId;type;website;firstname;lastname;personBirthDate;personContactId;personEmail;personMobilePhone
+402131;ALMIRALL, S.L.;false;;4244  Kerry Way;Los Angeles;CA;90017;USA;-;402133;802101;562-758-3755;700101;Prospect;https://www.almirall.es/;;;;;;
+402132;KONOZCA CONSULTING S.L.;false;;;;;;;;;802101;562-758-3755;700101;Customer;https://konozca.com/;;;;;;
+402133;KYMOS PHARMA S.L.;false;;;;;;;;;802101;562-758-3755;700101;Technology Partner;http://www.kymos.com/;;;;;;
+402134;AEFA LES MILLS;false;;;;;;;;;802101;562-758-3755;700101;Pending;https://www.lesmills.es/;;;;;;
+402135;MÉMORA;false;;;;;;;;;802101;562-758-3756;700101;Prospect;https://www.memora.es/;;;;;;
+402136;REINITAS S.C.P.;false;;;;;;;;;802101;562-758-3756;700101;Customer;-;;;;;;
+402137;COMERCIAL LOYPE S.L.;false;;;;;;;;;802101;562-758-3756;700101;Technology Partner;https://tiendaloype.com/index.php;;;;;;
+205321;Rodrigo Arcos Chazarreta;true;;;;;;;;;802101;562-758-3756;700101;Pending;;Rodrigo;Arcos Chazarreta;05/11/98;900523;rodrigo.arcos@test.com;623526748
+205322;Sergio Leonel Agüero del Castillo;true;;;;;;;;;802101;562-758-3757;700201;Prospect;;Sergio Leonel;Agüero del Castillo;02/06/88;900524;sergio.kun@test.com;623526749
+205323;Guts, Guerrero Negro;true;;;;;;;;;802101;562-758-3757;700201;Customer;;Guts;Guerrero Negro;18/08/73;900525;guts@berserk.com;623526750
+205324;Alhponse Elric;true;;;;;;;;;802101;562-758-3757;700201;Technology Partner;;Alphonse;Elric;16/02/76;900526;alphonse@fma.com;623526751
+205325;Edward Elric;true;;;;;;;;;802101;562-758-3757;700201;Pending;;Edward;Elric;19/10/79;900527;edward@fma.com;623526752
+205326;Roy Mustang;true;;;;;;;;;802101;562-758-3758;700201;Prospect;;Roy;Mustang;03/12/65;900528;roy@fma.com;623526753
+205327;Winry Rockbell;true;;;;;;;;;802101;562-758-3758;700201;Customer;;Winry;Rockbell;05/11/76;900529;winry@fma.com;623526754
+205328;Ling Yao;true;;;;;;;;;802101;562-758-3755;700201;Technology Partner;;Ling;Yao;06/07/76;900530;ling@fma.com;623526755
