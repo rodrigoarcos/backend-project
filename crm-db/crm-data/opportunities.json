@@ -1,9 +1,9 @@
 [
     {
-      "id": "100101",
+      "externalId": "100101",
       "accountId": "402131",
       "ownerId": "802101",
-      "amount": "1.500,50 €",
+      "amount": "1500.50",
       "closeDate": "22/06/21",
       "contactId": "900131",
       "stageName": "Analizing",
@@ -12,11 +12,11 @@
       "leadSource": "Email"
     },
     {
-      "id": "100102",
+      "externalId": "100102",
       "accountId": "402132",
       "ownerId": "802101",
-      "amount": "873,50 €",
-      "closeDate": "23/06/21",
+      "amount": "873.50",
+      "closeDate": "2021-06-23",
       "contactId": "900132",
       "stageName": "Negociating",
       "probability": "50",
@@ -24,11 +24,11 @@
       "leadSource": "Facebook"
     },
     {
-      "id": "100103",
+      "externalId": "100103",
       "accountId": "402134",
       "ownerId": "802101",
-      "amount": "695,32 €",
-      "closeDate": "24/06/21",
+      "amount": "695.32",
+      "closeDate": "2021-06-23",
       "contactId": "900134",
       "stageName": "Closed Won",
       "probability": "100",
@@ -36,11 +36,11 @@
       "leadSource": "Email"
     },
     {
-      "id": "100104",
+      "externalId": "100104",
       "accountId": "402132",
       "ownerId": "802101",
-      "amount": "1.003,90 €",
-      "closeDate": "25/06/21",
+      "amount": "1003.90",
+      "closeDate": "2021-06-23",
       "contactId": "900132",
       "stageName": "Closed Lost",
       "probability": "0",
@@ -48,11 +48,11 @@
       "leadSource": "Partner Referral"
     },
     {
-      "id": "100105",
+      "externalId": "100105",
       "accountId": "402133",
       "ownerId": "802101",
-      "amount": "75,89 €",
-      "closeDate": "26/06/21",
+      "amount": "75.89",
+      "closeDate": "2021-06-23",
       "contactId": "900133",
       "stageName": "Negociating",
       "probability": "50",
@@ -60,11 +60,11 @@
       "leadSource": "Other"
     },
     {
-      "id": "100106",
+      "externalId": "100106",
       "accountId": "402135",
       "ownerId": "802101",
-      "amount": "65,70 €",
-      "closeDate": "27/06/21",
+      "amount": "65.70",
+      "closeDate": "2021-06-23",
       "contactId": "900135",
       "stageName": "Analizing",
       "probability": "20",
@@ -72,11 +72,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100107",
+      "externalId": "100107",
       "accountId": "402133",
       "ownerId": "802101",
-      "amount": "12,75 €",
-      "closeDate": "28/06/21",
+      "amount": "12.75",
+      "closeDate": "2021-06-23",
       "contactId": "900133",
       "stageName": "Open",
       "probability": "10",
@@ -84,11 +84,11 @@
       "leadSource": "Email"
     },
     {
-      "id": "100108",
+      "externalId": "100108",
       "accountId": "402134",
       "ownerId": "802101",
-      "amount": "6.956,80 €",
-      "closeDate": "29/06/21",
+      "amount": "6956.80",
+      "closeDate": "2021-06-23",
       "contactId": "900134",
       "stageName": "Closed Won",
       "probability": "100",
@@ -96,11 +96,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100109",
+      "externalId": "100109",
       "accountId": "205321",
       "ownerId": "802101",
-      "amount": "1.215,80 €",
-      "closeDate": "30/06/21",
+      "amount": "1215.80",
+      "closeDate": "2021-06-23",
       "contactId": "905321",
       "stageName": "Closing",
       "probability": "90",
@@ -108,11 +108,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100110",
+      "externalId": "100110",
       "accountId": "205323",
       "ownerId": "802101",
-      "amount": "1.568,20 €",
-      "closeDate": "01/07/21",
+      "amount": "1568.20",
+      "closeDate": "2021-06-23",
       "contactId": "905323",
       "stageName": "Negociating",
       "probability": "50",
@@ -120,11 +120,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100111",
+      "externalId": "100111",
       "accountId": "205324",
       "ownerId": "802101",
-      "amount": "525,30 €",
-      "closeDate": "02/07/21",
+      "amount": "525.30",
+      "closeDate": "2021-06-23",
       "contactId": "905324",
       "stageName": "Analizing",
       "probability": "20",
@@ -132,11 +132,11 @@
       "leadSource": "Email"
     },
     {
-      "id": "100112",
+      "externalId": "100112",
       "accountId": "205325",
       "ownerId": "802101",
-      "amount": "454,00 €",
-      "closeDate": "03/07/21",
+      "amount": "454.00",
+      "closeDate": "2021-06-23",
       "contactId": "905325",
       "stageName": "Closed Lost",
       "probability": "0",
@@ -144,11 +144,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100113",
+      "externalId": "100113",
       "accountId": "205327",
       "ownerId": "802101",
-      "amount": "8.985,00 €",
-      "closeDate": "04/07/21",
+      "amount": "8985.00",
+      "closeDate": "2021-06-23",
       "contactId": "905327",
       "stageName": "Closed Won",
       "probability": "100",
@@ -156,11 +156,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100114",
+      "externalId": "100114",
       "accountId": "402135",
       "ownerId": "802101",
-      "amount": "86,32 €",
-      "closeDate": "05/07/21",
+      "amount": "86.32",
+      "closeDate": "2021-06-23",
       "contactId": "900135",
       "stageName": "Analizing",
       "probability": "20",
@@ -168,11 +168,11 @@
       "leadSource": "Email"
     },
     {
-      "id": "100115",
+      "externalId": "100115",
       "accountId": "402135",
       "ownerId": "802101",
-      "amount": "56,98 €",
-      "closeDate": "06/07/21",
+      "amount": "56.98",
+      "closeDate": "2021-06-23",
       "contactId": "900135",
       "stageName": "Negociating",
       "probability": "50",
@@ -180,11 +180,11 @@
       "leadSource": "Email"
     },
     {
-      "id": "100116",
+      "externalId": "100116",
       "accountId": "205321",
       "ownerId": "802101",
-      "amount": "758,60 €",
-      "closeDate": "07/07/21",
+      "amount": "758.60",
+      "closeDate": "2021-06-23",
       "contactId": "905321",
       "stageName": "Closed Lost",
       "probability": "0",
@@ -192,11 +192,11 @@
       "leadSource": "Partner Referral"
     },
     {
-      "id": "100117",
+      "externalId": "100117",
       "accountId": "205322",
       "ownerId": "802101",
-      "amount": "2.353,00 €",
-      "closeDate": "08/07/21",
+      "amount": "2353.00",
+      "closeDate": "2021-06-23",
       "contactId": "905322",
       "stageName": "Negociating",
       "probability": "50",
@@ -204,11 +204,11 @@
       "leadSource": "Partner Referral"
     },
     {
-      "id": "100118",
+      "externalId": "100118",
       "accountId": "402131",
       "ownerId": "802101",
-      "amount": "4.822,00 €",
-      "closeDate": "09/07/21",
+      "amount": "4822.00",
+      "closeDate": "2021-06-23",
       "contactId": "900131",
       "stageName": "Negociating",
       "probability": "50",
@@ -216,11 +216,11 @@
       "leadSource": "Partner Referral"
     },
     {
-      "id": "100119",
+      "externalId": "100119",
       "accountId": "402133",
       "ownerId": "802101",
-      "amount": "895,60 €",
-      "closeDate": "10/07/21",
+      "amount": "895.60",
+      "closeDate": "2021-06-23",
       "contactId": "900133",
       "stageName": "Analizing",
       "probability": "20",
@@ -228,11 +228,11 @@
       "leadSource": "Facebook"
     },
     {
-      "id": "100120",
+      "externalId": "100120",
       "accountId": "402134",
       "ownerId": "802101",
-      "amount": "765,00 €",
-      "closeDate": "11/07/21",
+      "amount": "765.00",
+      "closeDate": "2021-06-23",
       "contactId": "900134",
       "stageName": "Closed Won",
       "probability": "100",
@@ -240,11 +240,11 @@
       "leadSource": "Facebook"
     },
     {
-      "id": "100121",
+      "externalId": "100121",
       "accountId": "402133",
       "ownerId": "802101",
-      "amount": "321,00 €",
-      "closeDate": "12/07/21",
+      "amount": "321.00",
+      "closeDate": "2021-06-23",
       "contactId": "900133",
       "stageName": "Closed Won",
       "probability": "100",
@@ -252,11 +252,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100122",
+      "externalId": "100122",
       "accountId": "402134",
       "ownerId": "802101",
-      "amount": "952,00 €",
-      "closeDate": "13/07/21",
+      "amount": "952.00",
+      "closeDate": "2021-06-23",
       "contactId": "900134",
       "stageName": "Closed Lost",
       "probability": "0",
@@ -264,11 +264,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100123",
+      "externalId": "100123",
       "accountId": "205322",
       "ownerId": "802101",
-      "amount": "101,00 €",
-      "closeDate": "14/07/21",
+      "amount": "101.00",
+      "closeDate": "2021-06-23",
       "contactId": "905322",
       "stageName": "Closing",
       "probability": "90",
@@ -276,11 +276,11 @@
       "leadSource": "Web"
     },
     {
-      "id": "100124",
+      "externalId": "100124",
       "accountId": "205323",
       "ownerId": "802101",
-      "amount": "1.156,00 €",
-      "closeDate": "15/07/21",
+      "amount": "1156.00",
+      "closeDate": "2021-06-23",
       "contactId": "905323",
       "stageName": "Negociating",
       "probability": "50",

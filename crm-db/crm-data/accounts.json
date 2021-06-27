@@ -1,6 +1,6 @@
 [
     {
-        "id": "402131",
+        "externalId": "402131",
         "name": "ALMIRALL, S.L.",
         "isPersonAccount": false,
         "address": {
@@ -25,7 +25,7 @@
         "website": "https://www.almirall.es/"
     },
     {
-        "id": "402132",
+        "externalId": "402132",
         "name": "KONOZCA CONSULTING S.L.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -50,7 +50,7 @@
         "website": "https://konozca.com/"
     },
     {
-        "id": "402133",
+        "externalId": "402133",
         "name": "KYMOS PHARMA S.L.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -75,7 +75,7 @@
         "website": "http://www.kymos.com/"
     },
     {
-        "id": "402134",
+        "externalId": "402134",
         "name": "AEFA LES MILLS",
         "isPersonAccount": false,
         "billingAddress": {
@@ -100,7 +100,7 @@
         "website": "https://www.lesmills.es/"
     },
     {
-        "id": "402135",
+        "externalId": "402135",
         "name": "MÉMORA",
         "isPersonAccount": false,        
         "billingAddress": {
@@ -125,7 +125,7 @@
         "website": "https://www.memora.es/"
     },
     {
-        "id": "402136",
+        "externalId": "402136",
         "name": "REINITAS S.C.P.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -150,7 +150,7 @@
         "website": ""
     },
     {
-        "id": "402137",
+        "externalId": "402137",
         "name": "COMERCIAL LOYPE S.L.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -175,7 +175,7 @@
         "website": "https://tiendaloype.com/index.php"
     },
     {
-        "id": "205321",
+        "externalId": "205321",
         "name": "Rodrigo Arcos Chazarreta",
         "isPersonAccount": true,
         "billingAddress": {
@@ -207,7 +207,7 @@
         "personMobilePhone": 623526748
     },
     {
-        "id": "205322",
+        "externalId": "205322",
         "name": "Sergio Leonel Agüero del Castillo",
         "isPersonAccount": true,
         "billingAddress": {
@@ -239,7 +239,7 @@
         "personMobilePhone": 623526749
     },
     {
-        "id": "205323",
+        "externalId": "205323",
         "name": "Guts, Guerrero Negro",
         "isPersonAccount": true,
         "billingAddress": {
@@ -271,7 +271,7 @@
         "personMobilePhone": 623526750
     },
     {
-        "id": "205324",
+        "externalId": "205324",
         "name": "Alhponse Elric",
         "isPersonAccount": true,
         "billingAddress": {
@@ -303,7 +303,7 @@
         "personMobilePhone": 623526751
     },
     {
-        "id": "205325",
+        "externalId": "205325",
         "name": "Edward Elric",
         "isPersonAccount": true,
         "billingAddress": {
@@ -335,7 +335,7 @@
         "personMobilePhone": 623526752
     },
     {
-        "id": "205326",
+        "externalId": "205326",
         "name": "Roy Mustang",
         "isPersonAccount": true,
         "billingAddress": {
@@ -367,7 +367,7 @@
         "personMobilePhone": 623526753
     },
     {
-        "id": "205327",
+        "externalId": "205327",
         "name": "Winry Rockbell",
         "isPersonAccount": true,
         "billingAddress": {
@@ -399,7 +399,7 @@
         "personMobilePhone": 623526754
     },
     {
-        "id": "205328",
+        "externalId": "205328",
         "name": "Ling Yao",
         "isPersonAccount": true,
         "billingAddress": {
