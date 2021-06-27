@@ -14,7 +14,86 @@ app.get("/", async (req, res) => {
   res.status(200).json({ hello: "world!" });
 });
 
-// Create objects
+// List all objects
+
+app.get("/accounts", async (req, res) => {
+  await client.connect();
+  const db = client.db("crmsite");
+  const result = await db.collection("accounts").find({}).toArray();
+  res.status(200).json({ results: result });
+
+  client.close();
+})
+
+app.get("/opportunities", async (req, res) => {
+  await client.connect();
+  const db = client.db("crmsite");
+  const result = await db.collection("opportunities").find({}).toArray();
+  res.status(200).json({ results: result });
+
+  client.close();
+})
+
+app.get("/contacts", async (req, res) => {
+  await client.connect();
+  const db = client.db("crmsite");
+  const result = await db.collection("contacts").find({}).toArray();
+  res.status(200).json({ results: result });
+
+  client.close();
+})
+
+// Get object by id
+
+app.get("/accounts/:account_id", async (req, res) => {
+  await client.connect();
+
+  const { account_id } = req.params;
+  const db = client.db("crmsite");
+  const filter = { id: account_id };
+  const options = { upsert: true };
+  const updateDoc = {
+    $set: req.body,
+  };
+  const result = await db.collection("accounts").findOne(filter);
+  res.status(200).json({ results: result });
+
+  client.close();
+});
+
+app.get("/contacts/:contact_id", async (req, res) => {
+  await client.connect();
+
+  const { contact_id } = req.params;
+  const db = client.db("crmsite");
+  const filter = { id: contact_id };
+  const options = { upsert: true };
+  const updateDoc = {
+    $set: req.body,
+  };
+  const result = await db.collection("contacts").findOne(filter);
+  res.status(200).json({ results: result });
+
+  client.close();
+});
+
+app.get("/opportunities/:opportunity_id", async (req, res) => {
+  await client.connect();
+
+  const { opportunity_id } = req.params;
+  const db = client.db("crmsite");
+  const filter = { id: opportunity_id };
+  const options = { upsert: true };
+  const updateDoc = {
+    $set: req.body,
+  };
+  const result = await db.collection("opportunities").findOne(filter);
+  res.status(200).json({ results: result });
+
+  client.close();
+});
+
+// Create single objects
 
 app.post("/accounts", async (req, res) => {
   await client.connect();
@@ -43,7 +122,7 @@ app.post("/contacts", async (req, res) => {
   client.close();
 });
 
-// update objects
+// update single objects
 
 app.put("/accounts/:account_id", async (req, res) => {
   await client.connect();
@@ -93,7 +172,7 @@ app.put("/opportunities/:opportunity_id", async (req, res) => {
   client.close();
 });
 
-// delete objects
+// delete single objects
 
 app.delete("/accounts/:account_id", async (req, res) => {
   await client.connect();
