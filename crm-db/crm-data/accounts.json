@@ -1,6 +1,6 @@
 [
     {
-        "id": 402131,
+        "id": "402131",
         "name": "ALMIRALL, S.L.",
         "isPersonAccount": false,
         "address": {
@@ -17,15 +17,15 @@
             "shippingPostalCode": 90017,
             "shippingCountry": "USA"
         },
-        "parentId": 402133,
-        "ownerId": 802101,
+        "parentId": "402133",
+        "ownerId": "802101",
         "phone": "562-758-3755",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Prospect",
         "website": "https://www.almirall.es/"
     },
     {
-        "id": 402132,
+        "id": "402132",
         "name": "KONOZCA CONSULTING S.L.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -43,14 +43,14 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3755",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Customer",
         "website": "https://konozca.com/"
     },
     {
-        "id": 402133,
+        "id": "402133",
         "name": "KYMOS PHARMA S.L.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -68,14 +68,14 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3755",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Technology Partner",
         "website": "http://www.kymos.com/"
     },
     {
-        "id": 402134,
+        "id": "402134",
         "name": "AEFA LES MILLS",
         "isPersonAccount": false,
         "billingAddress": {
@@ -93,14 +93,14 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3755",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Pending",
         "website": "https://www.lesmills.es/"
     },
     {
-        "id": 402135,
+        "id": "402135",
         "name": "MÉMORA",
         "isPersonAccount": false,        
         "billingAddress": {
@@ -118,14 +118,14 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3756",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Prospect",
         "website": "https://www.memora.es/"
     },
     {
-        "id": 402136,
+        "id": "402136",
         "name": "REINITAS S.C.P.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -143,14 +143,14 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3756",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Customer",
         "website": ""
     },
     {
-        "id": 402137,
+        "id": "402137",
         "name": "COMERCIAL LOYPE S.L.",
         "isPersonAccount": false,
         "billingAddress": {
@@ -168,14 +168,14 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3756",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Technology Partner",
         "website": "https://tiendaloype.com/index.php"
     },
     {
-        "id": 205321,
+        "id": "205321",
         "name": "Rodrigo Arcos Chazarreta",
         "isPersonAccount": true,
         "billingAddress": {
@@ -193,21 +193,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3756",
-        "recordTypeId": 700101,
+        "recordTypeId": "700101",
         "type": "Pending",
         "website": "",
         "PERSACC:": "",
         "firstname": "Rodrigo",
         "lastname": "Arcos Chazarreta",
         "personBirthDate": "05/11/98",
-        "personContactId": 900523,
+        "personContactId": "900523",
         "personEmail": "rodrigo.arcos@test.com",
         "personMobilePhone": 623526748
     },
     {
-        "id": 205322,
+        "id": "205322",
         "name": "Sergio Leonel Agüero del Castillo",
         "isPersonAccount": true,
         "billingAddress": {
@@ -225,21 +225,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3757",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Prospect",
         "website": "",
         "PERSACC:": "",
         "firstname": "Sergio Leonel",
         "lastname": "Agüero del Castillo",
         "personBirthDate": "02/06/88",
-        "personContactId": 900524,
+        "personContactId": "900524",
         "personEmail": "sergio.kun@test.com",
         "personMobilePhone": 623526749
     },
     {
-        "id": 205323,
+        "id": "205323",
         "name": "Guts, Guerrero Negro",
         "isPersonAccount": true,
         "billingAddress": {
@@ -257,21 +257,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3757",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Customer",
         "website": "",
         "PERSACC:": "",
         "firstname": "Guts",
         "lastname": "Guerrero Negro",
         "personBirthDate": "18/08/73",
-        "personContactId": 900525,
+        "personContactId": "900525",
         "personEmail": "guts@berserk.com",
         "personMobilePhone": 623526750
     },
     {
-        "id": 205324,
+        "id": "205324",
         "name": "Alhponse Elric",
         "isPersonAccount": true,
         "billingAddress": {
@@ -289,21 +289,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3757",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Technology Partner",
         "website": "",
         "PERSACC:": "",
         "firstname": "Alphonse",
         "lastname": "Elric",
         "personBirthDate": "16/02/76",
-        "personContactId": 900526,
+        "personContactId": "900526",
         "personEmail": "alphonse@fma.com",
         "personMobilePhone": 623526751
     },
     {
-        "id": 205325,
+        "id": "205325",
         "name": "Edward Elric",
         "isPersonAccount": true,
         "billingAddress": {
@@ -321,21 +321,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3757",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Pending",
         "website": "",
         "PERSACC:": "",
         "firstname": "Edward",
         "lastname": "Elric",
         "personBirthDate": "19/10/79",
-        "personContactId": 900527,
+        "personContactId": "900527",
         "personEmail": "edward@fma.com",
         "personMobilePhone": 623526752
     },
     {
-        "id": 205326,
+        "id": "205326",
         "name": "Roy Mustang",
         "isPersonAccount": true,
         "billingAddress": {
@@ -353,21 +353,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3758",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Prospect",
         "website": "",
         "PERSACC:": "",
         "firstname": "Roy",
         "lastname": "Mustang",
         "personBirthDate": "03/12/65",
-        "personContactId": 900528,
+        "personContactId": "900528",
         "personEmail": "roy@fma.com",
         "personMobilePhone": 623526753
     },
     {
-        "id": 205327,
+        "id": "205327",
         "name": "Winry Rockbell",
         "isPersonAccount": true,
         "billingAddress": {
@@ -385,21 +385,21 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3758",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Customer",
         "website": "",
         "PERSACC:": "",
         "firstname": "Winry",
         "lastname": "Rockbell",
         "personBirthDate": "05/11/76",
-        "personContactId": 900529,
+        "personContactId": "900529",
         "personEmail": "winry@fma.com",
         "personMobilePhone": 623526754
     },
     {
-        "id": 205328,
+        "id": "205328",
         "name": "Ling Yao",
         "isPersonAccount": true,
         "billingAddress": {
@@ -417,16 +417,16 @@
             "shippingCountry": "USA"
         },
         "parentId": "",
-        "ownerId": 802101,
+        "ownerId": "802101",
         "phone": "562-758-3755",
-        "recordTypeId": 700201,
+        "recordTypeId": "700201",
         "type": "Technology Partner",
         "website": "",
         "PERSACC:": "",
         "firstname": "Ling",
         "lastname": "Yao",
         "personBirthDate": "06/07/76",
-        "personContactId": 900530,
+        "personContactId": "900530",
         "personEmail": "ling@fma.com",
         "personMobilePhone": 623526755
     }
