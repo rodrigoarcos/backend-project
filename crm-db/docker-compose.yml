@@ -9,6 +9,7 @@ services:
     ports:
       - 27017:27017
     volumes:
+      - ./crm-data:/crm-data
       - data:/data/db
 
 volumes:
